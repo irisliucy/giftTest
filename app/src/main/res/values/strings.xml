@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gift</string>
+    <string name="CoinsAmountText">1,000.6</string>
+    <string name="CoinLeftText">50.6</string>
+    <string name="AccountNameText">Nice Donor</string>
+    <string name="CharityName1">Charity A</string>
+    <string name="CharityName2">Charity B</string>
+    <string name="CharityName3">Charity C</string>
+    <string name="CharityName4">Charity D</string>
+    <string name="TotalText">Total</string>
+    <string name="TotalAmount">950</string>
+    <string name="AutoButtonText">Auto</string>
+    <string name="EditButtonText">Edit</string>
+    <string name="CharityName5">Charity E</string>
+    <string name="CharityName6">Charity F</string>
+    <string name="LogoutQuestionText">Are you sure to logout?</string>
+    <string name="LogoutWarningText">Are you sure to logout?</string>
+</resources>
